@@ -1,0 +1,11 @@
+li {
+    list-style-type: none;
+}
+
+ul {
+    margin-top: 20px;
+    padding: 0;
+    display: flex;
+    gap: 6px;
+    flex-direction: column
+}
